@@ -7,18 +7,37 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A138DCD12A448C1200361319 /* Results in Swift.swift in Sources */ = {isa = PBXBuildFile; fileRef = A138DCD02A448C1200361319 /* Results in Swift.swift */; };
+		A138DCD32A448E9300361319 /* Controlando a interpolação de imagens no SwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = A138DCD22A448E9300361319 /* Controlando a interpolação de imagens no SwiftUI.swift */; };
+		A138DCD52A4492A800361319 /* MenuContextua.swift in Sources */ = {isa = PBXBuildFile; fileRef = A138DCD42A4492A800361319 /* MenuContextua.swift */; };
+		A138DCD92A4496D400361319 /* acoes lateras.swift in Sources */ = {isa = PBXBuildFile; fileRef = A138DCD82A4496D400361319 /* acoes lateras.swift */; };
+		A138DCDB2A449AAB00361319 /* notificao agenda.swift in Sources */ = {isa = PBXBuildFile; fileRef = A138DCDA2A449AAB00361319 /* notificao agenda.swift */; };
+		A138DCDE2A44A1A800361319 /* SamplePackage in Frameworks */ = {isa = PBXBuildFile; productRef = A138DCDD2A44A1A800361319 /* SamplePackage */; };
+		A138DCE02A44A79300361319 /* package dependecies.swift in Sources */ = {isa = PBXBuildFile; fileRef = A138DCDF2A44A79300361319 /* package dependecies.swift */; };
 		A19664F72A424B0E0002BF31 /* HotProspectsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A19664F62A424B0E0002BF31 /* HotProspectsApp.swift */; };
 		A19664F92A424B0E0002BF31 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A19664F82A424B0E0002BF31 /* ContentView.swift */; };
 		A19664FB2A424B0F0002BF31 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A19664FA2A424B0F0002BF31 /* Assets.xcassets */; };
 		A19664FE2A424B0F0002BF31 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A19664FD2A424B0F0002BF31 /* Preview Assets.xcassets */; };
+		A19665062A42509E0002BF31 /* EnvironmentObject e ambiente .swift in Sources */ = {isa = PBXBuildFile; fileRef = A19665052A42509E0002BF31 /* EnvironmentObject e ambiente .swift */; };
+		A19665082A4254970002BF31 /* TabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A19665072A4254970002BF31 /* TabView.swift */; };
+		A196650A2A4269BC0002BF31 /* Publised manuamente .swift in Sources */ = {isa = PBXBuildFile; fileRef = A19665092A4269BC0002BF31 /* Publised manuamente .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A138DCD02A448C1200361319 /* Results in Swift.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Results in Swift.swift"; sourceTree = "<group>"; };
+		A138DCD22A448E9300361319 /* Controlando a interpolação de imagens no SwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Controlando a interpolação de imagens no SwiftUI.swift"; sourceTree = "<group>"; };
+		A138DCD42A4492A800361319 /* MenuContextua.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuContextua.swift; sourceTree = "<group>"; };
+		A138DCD82A4496D400361319 /* acoes lateras.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "acoes lateras.swift"; sourceTree = "<group>"; };
+		A138DCDA2A449AAB00361319 /* notificao agenda.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "notificao agenda.swift"; sourceTree = "<group>"; };
+		A138DCDF2A44A79300361319 /* package dependecies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "package dependecies.swift"; sourceTree = "<group>"; };
 		A19664F32A424B0E0002BF31 /* HotProspects.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HotProspects.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A19664F62A424B0E0002BF31 /* HotProspectsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HotProspectsApp.swift; sourceTree = "<group>"; };
 		A19664F82A424B0E0002BF31 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A19664FA2A424B0F0002BF31 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A19664FD2A424B0F0002BF31 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A19665052A42509E0002BF31 /* EnvironmentObject e ambiente .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "EnvironmentObject e ambiente .swift"; sourceTree = "<group>"; };
+		A19665072A4254970002BF31 /* TabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabView.swift; sourceTree = "<group>"; };
+		A19665092A4269BC0002BF31 /* Publised manuamente .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Publised manuamente .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -26,6 +45,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A138DCDE2A44A1A800361319 /* SamplePackage in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -53,6 +73,7 @@
 			children = (
 				A19664F62A424B0E0002BF31 /* HotProspectsApp.swift */,
 				A19664F82A424B0E0002BF31 /* ContentView.swift */,
+				A19665042A424B280002BF31 /* Tecnicas */,
 				A19664FA2A424B0F0002BF31 /* Assets.xcassets */,
 				A19664FC2A424B0F0002BF31 /* Preview Content */,
 			);
@@ -65,6 +86,22 @@
 				A19664FD2A424B0F0002BF31 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		A19665042A424B280002BF31 /* Tecnicas */ = {
+			isa = PBXGroup;
+			children = (
+				A19665052A42509E0002BF31 /* EnvironmentObject e ambiente .swift */,
+				A19665072A4254970002BF31 /* TabView.swift */,
+				A19665092A4269BC0002BF31 /* Publised manuamente .swift */,
+				A138DCD02A448C1200361319 /* Results in Swift.swift */,
+				A138DCD22A448E9300361319 /* Controlando a interpolação de imagens no SwiftUI.swift */,
+				A138DCD42A4492A800361319 /* MenuContextua.swift */,
+				A138DCD82A4496D400361319 /* acoes lateras.swift */,
+				A138DCDA2A449AAB00361319 /* notificao agenda.swift */,
+				A138DCDF2A44A79300361319 /* package dependecies.swift */,
+			);
+			path = Tecnicas;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -83,6 +120,9 @@
 			dependencies = (
 			);
 			name = HotProspects;
+			packageProductDependencies = (
+				A138DCDD2A44A1A800361319 /* SamplePackage */,
+			);
 			productName = HotProspects;
 			productReference = A19664F32A424B0E0002BF31 /* HotProspects.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +151,9 @@
 				Base,
 			);
 			mainGroup = A19664EA2A424B0E0002BF31;
+			packageReferences = (
+				A138DCDC2A44A1A800361319 /* XCRemoteSwiftPackageReference "SamplePackage" */,
+			);
 			productRefGroup = A19664F42A424B0E0002BF31 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -138,7 +181,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				A19664F92A424B0E0002BF31 /* ContentView.swift in Sources */,
+				A138DCDB2A449AAB00361319 /* notificao agenda.swift in Sources */,
+				A19665062A42509E0002BF31 /* EnvironmentObject e ambiente .swift in Sources */,
+				A196650A2A4269BC0002BF31 /* Publised manuamente .swift in Sources */,
+				A138DCD32A448E9300361319 /* Controlando a interpolação de imagens no SwiftUI.swift in Sources */,
+				A19665082A4254970002BF31 /* TabView.swift in Sources */,
 				A19664F72A424B0E0002BF31 /* HotProspectsApp.swift in Sources */,
+				A138DCE02A44A79300361319 /* package dependecies.swift in Sources */,
+				A138DCD92A4496D400361319 /* acoes lateras.swift in Sources */,
+				A138DCD52A4492A800361319 /* MenuContextua.swift in Sources */,
+				A138DCD12A448C1200361319 /* Results in Swift.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -339,6 +391,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		A138DCDC2A44A1A800361319 /* XCRemoteSwiftPackageReference "SamplePackage" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/twostraws/SamplePackage";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		A138DCDD2A44A1A800361319 /* SamplePackage */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A138DCDC2A44A1A800361319 /* XCRemoteSwiftPackageReference "SamplePackage" */;
+			productName = SamplePackage;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = A19664EB2A424B0E0002BF31 /* Project object */;
 }
